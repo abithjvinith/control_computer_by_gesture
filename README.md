@@ -21,6 +21,9 @@ FACE ANY ERROR :
 If you face any error just retry by uninstalling and re-installing again the packages.
 
 
+use -> two fingers to move the cursor
+use -> three fingers  to select any items
+use -> open five fingers and close them to drag any items.
 
 Debugged and Coded by
 ABITH JERI VINITH J
