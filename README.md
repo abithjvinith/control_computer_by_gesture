@@ -25,5 +25,6 @@ use -> two fingers to move the cursor
 use -> three fingers  to select any items
 use -> open five fingers and close them to drag any items.
 
-Debugged and Coded by
+Debugged and Fixed by
 ABITH JERI VINITH J
+(it is an open source project taken by me and modified few things according to my needs)
